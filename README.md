@@ -1,2 +1,3 @@
-# types
-ctx-core utility types
+# @ctx-core/types
+
+Utility types for @ctx-core

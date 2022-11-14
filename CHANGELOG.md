@@ -1,5 +1,11 @@
 # @ctx-core/types
 
+## 1.1.0
+
+### Minor Changes
+
+- - NoRepetition,UnorderedTuple
+
 ## 1.0.2
 
 ### Patch Changes

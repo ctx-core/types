@@ -1,5 +1,11 @@
 # @ctx-core/types
 
+## 1.1.1
+
+### Patch Changes
+
+- UnorderedTuple: MemberA generic: MemberA extends any[] = any[]
+
 ## 1.1.0
 
 ### Minor Changes

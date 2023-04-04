@@ -1,5 +1,11 @@
 # @ctx-core/types
 
+## 1.2.0
+
+### Minor Changes
+
+- - json_T
+
 ## 1.1.2
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/types
 
+## 1.2.20
+
+### Patch Changes
+
+- version bump
+
 ## 1.2.19
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @ctx-core/types
 
+## 1.3.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 1.3.3
 
 ### Patch Changes

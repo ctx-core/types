@@ -1,5 +1,13 @@
 # @ctx-core/types
 
+## 1.3.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 1.3.2
 
 ### Patch Changes

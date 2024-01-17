@@ -1,5 +1,11 @@
 # @ctx-core/types
 
+## 1.3.93
+
+### Patch Changes
+
+- ctx-core: ^5.19.2 -> ^5.20.0
+
 ## 1.3.92
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ctx-core/types
 
+## 1.3.108
+
+### Patch Changes
+
+- ctx-core: ^5.27.2 -> ^5.28.0
+- Updated dependencies
+  - ctx-core@5.28.1
+
 ## 1.3.107
 
 ### Patch Changes

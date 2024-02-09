@@ -1,5 +1,12 @@
 # @ctx-core/types
 
+## 1.3.130
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@6.0.0
+
 ## 1.3.129
 
 ### Patch Changes

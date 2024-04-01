@@ -1,5 +1,12 @@
 # @ctx-core/types
 
+## 1.3.165
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@7.0.0
+
 ## 1.3.164
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ctx-core/types
 
+## 1.3.207
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 1.3.206
 
 ### Patch Changes
